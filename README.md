@@ -31,7 +31,7 @@ Contributed To Source: https://github.com/MarlinFirmware/Marlin/commits/bugfix-2
 
 ## Building Vert's Marlin 2+
 
-To build Vert's Marlin 2+ you need (Vscode) https://code.visualstudio.com/ + (PlatformIO) Or (Marlin Auto Build) Extention.
+To build Vert's Marlin 2+ you need (Vscode) https://code.visualstudio.com/ + (PlatformIO) Extention.
 
 ## Marlin Team Credits
 
