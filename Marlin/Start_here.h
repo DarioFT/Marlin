@@ -8,6 +8,7 @@
 // Forum               "http://www.vertshobbies.com/" 
 // GitHub              "https://github.com/Vertabreak/Marlin"
 // Thingivese          "https://www.thingiverse.com/Vertabreaker"
+// Patreon             "https://www.patreon.com/vertabreaker" 
 
 //-------------------------------------------------------------------------------------------------------------------------
 // Remove // to enable - add // to disable                                                                                |
