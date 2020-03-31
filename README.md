@@ -27,6 +27,8 @@ Thingivese: https://www.thingiverse.com/Vertabreaker
 
 YouTube: http://youtube.com/c/verta
 
+Patreon: https://www.patreon.com/vertabreaker
+
 Contributed To Source: https://github.com/MarlinFirmware/Marlin/commits/bugfix-2.0.x?author=Vertabreak
 
 ## Building Vert's Marlin 2+
