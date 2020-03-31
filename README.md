@@ -17,21 +17,19 @@ Additional features/models/ect integration can be requested and donations are a 
 
 GitHub Releases: https://github.com/Vertabreak/Marlin/releases
 
-Commit Log: https://github.com/Vertabreak/Marlin/commits
+Change Log: https://github.com/Vertabreak/Marlin/commits
 
-Support Discord: https://discord.gg/brq79WQ
+Discord: https://discord.gg/brq79WQ
 
-Support Forum: http://www.vertshobbies.com/
-
-Patreon: https://www.patreon.com/vertabreaker
+Forum: http://www.vertshobbies.com/
 
 Thingivese: https://www.thingiverse.com/Vertabreaker
 
-YouTube Guides: http://youtube.com/c/verta
+YouTube: http://youtube.com/c/verta
 
 Contributed To Source: https://github.com/MarlinFirmware/Marlin/commits/bugfix-2.0.x?author=Vertabreak
 
-##Building Vert's Marlin 2+
+## Building Vert's Marlin 2+
 
 To build Vert's Marlin 2+ you need (Vscode) https://code.visualstudio.com/ + (PlatformIO) Or (Marlin Auto Build) Extention.
 
