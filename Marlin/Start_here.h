@@ -8,6 +8,7 @@
 // Forum               "http://www.vertshobbies.com/" 
 // GitHub              "https://github.com/Vertabreak/Marlin"
 // Thingivese          "https://www.thingiverse.com/Vertabreaker"
+// Patreon             "https://www.patreon.com/vertabreaker" 
 
 //-------------------------------------------------------------------------------------------------------------------------
 // Remove // to enable - add // to disable                                                                                |
@@ -162,7 +163,7 @@
 //Used to switch the default board of the model selected in step 1
 //#define CUSTOMBOARD // Enable Custom Board
 #if ENABLED (CUSTOMBOARD)
-  #define MOTHERBOARD BOARD_BTT_SKR_V1_3  // CTRL+Click to jump to board list & also set the correct default_env in platfomio.ini
+  #define MOTHERBOARD BOARD_BTT_SKR_V1_4  // CTRL+Click to jump to board list & also set the correct default_env in platfomio.ini
 #endif
 
 //Framework for adding a new printer to this config
