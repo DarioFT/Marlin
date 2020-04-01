@@ -1,5 +1,5 @@
 #pragma once
-#define SHORT_BUILD_VERSION "2+ Build 489"
+#define SHORT_BUILD_VERSION "2+ Build 490"
 #define CUSTOM_MACHINE_NAME "3D Printer"
 
 // Ctrl+click to open links
