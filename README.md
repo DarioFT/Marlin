@@ -31,7 +31,7 @@ Contributed To Source: https://github.com/MarlinFirmware/Marlin/commits/bugfix-2
 
 ## Support This Project
 
-Patreon: https://www.patreon.com/vertabreaker
+[![Become a Patron!](https://i.imgur.com/BbE01dL.png)](https://www.patreon.com/vertabreaker)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H71KL43)
 
