@@ -27,9 +27,13 @@ Thingivese: https://www.thingiverse.com/Vertabreaker
 
 YouTube: http://youtube.com/c/verta
 
+Contributed To Source: https://github.com/MarlinFirmware/Marlin/commits/bugfix-2.0.x?author=Vertabreak
+
+## Support This Project
+
 Patreon: https://www.patreon.com/vertabreaker
 
-Contributed To Source: https://github.com/MarlinFirmware/Marlin/commits/bugfix-2.0.x?author=Vertabreak
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H71KL43)
 
 ## Building Vert's Marlin 2+
 
