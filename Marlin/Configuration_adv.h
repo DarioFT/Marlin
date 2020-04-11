@@ -2985,7 +2985,7 @@
   #define CUSTOM_USER_MENUS
 #endif
 #if ENABLED(CUSTOM_USER_MENUS)
-  #define CUSTOM_USER_MENU_TITLE "Tools"
+  #define CUSTOM_USER_MENU_TITLE "Herramientas"
   //#define USER_SCRIPT_DONE "M117 Running"
   //#define USER_SCRIPT_AUDIBLE_FEEDBACK
   #define USER_SCRIPT_RETURN  // Return to status screen after a script
@@ -3037,44 +3037,44 @@
   #define USER_GCODE_15 "M502\nM500\nM500\nM117 EEPROM values restored\nG4 S3\nM0 Click to continue"
 
 #elif ENABLED (PROBE_MANUALLY)
-  #define USER_DESC_1 "Manual UBL Slot 0" //Use nozzle & paper to setup UBL
+  #define USER_DESC_1 "Slot de UBL Manual 0" //Use nozzle & paper to setup UBL
   #define USER_GCODE_1 "G29 P4 R255\nG29 S0\nG29 F 10.0\nG29 A\nM500\nM0 Mesh Saved Slot 0"
 
-  #define USER_DESC_2 "Adjust Point Near" //Adjust nearest mesh point
+  #define USER_DESC_2 "Ajustar Punto Cercano" //Adjust nearest mesh point
   #define USER_GCODE_2 "G29 P4\nM500"
 
-  #define USER_DESC_3 "PIDtune Hotend"
+  #define USER_DESC_3 "Ajuste PID Hotend"
   #define USER_GCODE_3 "M303 U1 E0 S250 C8\nM500"
 
-  #define USER_DESC_4 "PIDtune Bed"
+  #define USER_DESC_4 "Ajuste PID Cama"
   #define USER_GCODE_4 "M303 U1 E-1 S90 C8\nM500"
 
-  #define USER_DESC_5 "Unconditional stop"
+  #define USER_DESC_5 "Pausa Incondicional"
   #define USER_GCODE_5 "M0"
 
   #define USER_DESC_6 "Park Toolhead"
   #define USER_GCODE_6 "G27"
 
-  #define USER_DESC_7 "Emergency Stop"
+  #define USER_DESC_7 "STOP DE EMERGENCIA"
   #define USER_GCODE_7 "M112"
 
-  #define USER_DESC_8 "Show SDPrint Name"
+  #define USER_DESC_8 "Nombre de impr. SD"
   #define USER_GCODE_8 "M27 C"
 
-  #define USER_DESC_9 "Enable Cold Extrude"
+  #define USER_DESC_9 "Habilitar Extr. Frio"
   #define USER_GCODE_9 "M302 P0"
 
-  #define USER_DESC_10 "Disable Cold Extrude"
+  #define USER_DESC_10 "Deshabilitar Extr. Frio"
   #define USER_GCODE_10 "M302 P1"
 
-  #define USER_DESC_11 "Dwell 30S"
+  #define USER_DESC_11 "Pausar 30 seg."
   #define USER_GCODE_11 "G4 S30"
 
-  #define USER_DESC_12 "Auto Cold Pull"
-  #define USER_GCODE_12 "G28\nM83\nG92 E0.00\nG21\nG1 X125 Y105 Z30\nM109 S250\nG1 E10.00 F6.5\nM109 S95\nM18 E\nM0 Pull your filament out\nM106 S0\nM109 S0"
+  #define USER_DESC_12 "Cold-Pull automatico"
+  #define USER_GCODE_12 "G28\nM83\nG92 E0.00\nG21\nG1 X125 Y105 Z30\nM109 S250\nG1 E10.00 F6.5\nM109 S95\nM18 E\nM0 Retire el filamento\nM106 S0\nM109 S0"
  
-  #define USER_DESC_13 "Nozzle Change"
-  #define USER_GCODE_13 "M104 S275\nM117 Setting Nozzle to 275C\nG4 s3\nM0 Click to continue"
+  #define USER_DESC_13 "Cambio de Nozzle"
+  #define USER_GCODE_13 "M104 S260\nM117 Llevando Nozzle a 260C\nG4 s3\nM0 Pulse para continuar"
 
   #else 
 

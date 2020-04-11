@@ -1,6 +1,6 @@
 #pragma once
 #define SHORT_BUILD_VERSION "2+ Build 492"
-#define CUSTOM_MACHINE_NAME "3D Printer"
+#define CUSTOM_MACHINE_NAME "Magna I"
 
 // Ctrl+click to open links
 // Youtube             "https://youtube.com/verta"
@@ -153,7 +153,7 @@
 
 //Optional features
 //#define PLR              // Enabled power loss resume - Only functions from SDcard
-//#define RUNOUT           // Enable filament runout sensor - Only If you have them and want to use them
+#define RUNOUT           // Enable filament runout sensor - Only If you have them and want to use them
 //#define BEDCLIPS         // Enable to avoid bed clips (manual or probe) - Only If you have them and want to use them
 //#define CASELIGHT        // Enable case light menu if board has led header.
 

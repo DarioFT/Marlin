@@ -1,43 +1,18 @@
-## Vert's Marlin 2+ 3D Printer Firmware
+## Vert's Marlin 2+ para Hellbot Magna I
 
-This is a custom fork based on the latest marlin source.
+Un fork de la configuración de la versión de Vert de Marlin 2+ para Hellbot Magna I y demás equivalentes de Geeetech (A10(C/CT/D/E3/M/T) y muchos más). La misma agrega múltiples herramientas y fue probada en una Magna I con el board v3.1.
 
-The primary difference is in ideology, i believe there should be a single configuration file for many if not all 3dprinters 
-to promote synergy and a more uniform experience.
+La configuración está setteada por defecto para una Magna I, para configurar los demás modelos es necesario hacer los ajustes correspondientes en los archivos de configuración de la raiz (Marlin).
 
-This being said i am a marlin developer and do submit my work upstream (vanilla) assuming they wish to accept it, this is my flavor of marlin (chocolate swirl with sprinkles). (Dont attempt to mix upstream files with my fork)
-
-Currently integrated models include Supported Models: :A10(C/CT/D/E3/M/T)/A20(C/CT/D/E3/M/T)/A30(C/CT/D/E3/M/T)/I3PRO(A/B/C/W/X/C/CT/D/E3/M/T)/E180/D200/M201/Ender3/Bear & there variants hundreds of combinations + more will be added.
-
-If you expect this fork to be maintained and technical support for it, I’m going to need your support in return to make it all happen.
-
-Additional features/models/ect integration can be requested and donations are a great motivation, you may also submit pull requests if you would rather code it your self and request it be merged.
+Como siempre hacer ajustes a conciencia, sabiendo lo que se toca y bajo su propia responsabilidad por supuesto.
 
 ## Links
 
-GitHub Releases: https://github.com/Vertabreak/Marlin/releases
-
-Change Log: https://github.com/Vertabreak/Marlin/commits
-
-Discord: https://discord.gg/brq79WQ
-
-Forum: http://www.vertshobbies.com/
-
-Thingivese: https://www.thingiverse.com/Vertabreaker
-
-YouTube: http://youtube.com/c/verta
-
-Contributed To Source: https://github.com/MarlinFirmware/Marlin/commits/bugfix-2.0.x?author=Vertabreak
-
-## Support This Project
-
-[![Become a Patron!](https://i.imgur.com/BbE01dL.png)](https://www.patreon.com/vertabreaker)
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H71KL43)
+Repo original: https://github.com/Vertabreak/Marlin/
 
 ## Building Vert's Marlin 2+
 
-To build Vert's Marlin 2+ you need (Vscode) https://code.visualstudio.com/ + (PlatformIO) Extention.
+Para compilar el firmware hace falta (Vscode) https://code.visualstudio.com/ y la extensión (PlatformIO).
 
 ## Marlin Team Credits
 
